@@ -1,7 +1,3 @@
-help = [
-    'whois',
-    'why',
-    'projects',
-    'contact',
-    'secret'
-]
+function cmnd(cmd) {
+    
+}
